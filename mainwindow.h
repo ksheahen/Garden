@@ -20,7 +20,12 @@ public:
 private slots:
     void on_btnMainVegetables_clicked();
 
-    void on_pushButton_clicked();
+    void on_btnMainFruit_clicked();
+
+    void on_btnReturn_2_clicked();
+
+    void on_btnReturn_clicked();
+
 
 private:
     Ui::MainWindow *ui;
